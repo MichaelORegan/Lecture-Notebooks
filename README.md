@@ -1,2 +1,2 @@
 # Lecture-Notebooks
-Lecture Notebooks from Programmin for Data Analysis and Fundamentals for Data Analysis
+Lecture Notebooks from Programming for Data Analysis 52465 and Fundamentals for Data Analysis 52446
